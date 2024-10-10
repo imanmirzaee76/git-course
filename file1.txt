@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 one
 two
 three
