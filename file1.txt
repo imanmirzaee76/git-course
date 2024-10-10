@@ -1,6 +1,5 @@
+<<<<<<< HEAD
 one
 two
 three
 four
-five
-six
